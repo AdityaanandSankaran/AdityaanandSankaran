@@ -9,7 +9,7 @@ Skills: Python / AutoCAD / SOLIDWORKS / Keras / Pandas / PyTesseract
 - 👯 I’m looking to collaborate on Interesting AI projects 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/adityaanandsankaran)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/adityaanand-sankaran/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/adityaanand sankaran)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/adityaanandsankaran)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/adityaanand-sankaran/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/Adityaanand Sankaran)  
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=adityaanandsankaran&show_icons=true)  
 
